@@ -1,0 +1,20 @@
+[
+  {
+    "port": 21,
+    "product": "vsftpd",
+    "version": "2.3.4",
+    "description": "vsftpd 2.3.4 backdoor"
+  },
+  {
+    "port": 22,
+    "product": "OpenSSH",
+    "version": "7.2",
+    "description": "OpenSSH 7.2 potential weaknesses"
+  },
+  {
+    "port": 80,
+    "product": "Apache",
+    "version": "2.4.49",
+    "description": "Apache 2.4.49 Path Traversal (CVE-2021-41773)"
+  }
+]

@@ -1,0 +1,2 @@
+# Python dependency for Custom Nmap Port Scanner
+python-nmap>=0.7.1
